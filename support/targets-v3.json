@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 3,
+  "payloads": [
+    {
+      "payloadId": "s20fe-SM-G781U-4.19.113",
+      "displayName": "Galaxy S20 FE (SM-G781U) | Kernel 4.19.113",
+      "models": [
+        "SM-G781U"
+      ],
+      "kernelVersions": [
+        "4.19.113"
+      ],
+      "exploit": {
+        "url": "https://github.com/manypigeons/Root-My-Galaxy-Payloads/raw/4728422efc6a80e67338c15d2035a396da6c2c0b/artifacts/s20fe/cve-2026-43499-app.so"
+      }
+    }
+  ]
+}
